@@ -1,0 +1,53 @@
+.pink-container {
+    background-color: pink;
+    border: 2px solid black;
+    color: aliceblue;
+}
+
+.logos {
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+
+h1 {
+    text-align: center;
+}
+
+.northern {
+    display: flex;
+    gap: 80px;
+}
+
+.glacier p {
+    padding-top: 60px;
+} 
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  th {
+    background-color: #85d1b5;
+  }
+  .green {
+    background-color: #85d1b5;
+    text-align: center;
+  }
+  .pink {
+    background-color: pink;
+  }
+
+footer ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    list-style: none;
+    gap: 20px;
+    text-decoration: none;
+
+} 
+.copywrite {
+    text-align: center;
+}
